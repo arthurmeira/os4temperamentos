@@ -28,7 +28,7 @@ Sistema desenvolvido em sala de aula na matéria de desenvolvimento de sistemas.
 </div>
 
 - <h4>Melancólico</h4>
-- 
+
 <div>
 <img src="https://user-images.githubusercontent.com/85205144/168501301-4b1667f0-de91-4bcd-804e-7ec48fa79cc4.png" width="870px" />
 </div>
