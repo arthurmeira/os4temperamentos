@@ -9,7 +9,7 @@ Sistema desenvolvido em sala de aula na matéria de desenvolvimento de sistemas.
 
 Resultados:
 
-- Colérico
+- <h4>Colérico</h4>
 
 <div>
 <img src="https://user-images.githubusercontent.com/85205144/168501138-7393f525-bd0c-496e-9f96-7e5ee7238b4d.png" width="870px" />
