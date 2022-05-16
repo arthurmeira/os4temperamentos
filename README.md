@@ -1,5 +1,5 @@
 # os4temperamentos
-Os 4 temperamentos - (DELPHI) 
+<h1>Os 4 temperamentos - (DELPHI)</h1> 
 
 Sistema desenvolvido em sala de aula na matéria de desenvolvimento de sistemas. Para esse projeto foi utilizado Delphi.
 
