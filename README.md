@@ -7,27 +7,27 @@ Sistema desenvolvido em sala de aula na matéria de desenvolvimento de sistemas.
 <img src="https://user-images.githubusercontent.com/85205144/168501041-b0191aaa-6e22-4541-af53-c748ff48fd3a.png" width="870px" />
 </div>
 
-Resultados:
+<h2>Resultados:</h2>
 
-- <h3>Colérico</h3>
+- <h4>Colérico</h4>
 
 <div>
 <img src="https://user-images.githubusercontent.com/85205144/168501138-7393f525-bd0c-496e-9f96-7e5ee7238b4d.png" width="870px" />
 </div>
 
-- Sanguíneo
+- <h4>Sanguíneo</h4>
 
 <div>
 <img src="https://user-images.githubusercontent.com/85205144/168501263-588788c8-ae3c-4a89-940d-8ccbb0099a43.png" width="870px" />
 </div>
 
-- Fleumático
+- <h4>Fleumático</h4>
 
 <div>
 <img src="https://user-images.githubusercontent.com/85205144/168501282-febf14b1-8fe0-40ef-a02a-d5d5ad29546b.png" width="870px" />
 </div>
 
-- Melancólico
+- <h4>Melancólico</h4>
 
 <div>
 <img src="https://user-images.githubusercontent.com/85205144/168501301-4b1667f0-de91-4bcd-804e-7ec48fa79cc4.png" width="870px" />
